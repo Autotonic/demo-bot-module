@@ -1,2 +1,2 @@
 # demo-bot-module
-demo repo for remote module loading with https://github.com/Autotonic/vicky
+demo repo for remote module loading with https://github.com/0xfdb/vicky
